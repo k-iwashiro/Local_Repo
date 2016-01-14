@@ -1,2 +1,2 @@
-# Loacal_Repo
+# Local_Repo
 ローカルリポジトリ
